@@ -26,7 +26,7 @@ internal class Program
             soma += VetFuncionario[i].salario;
         }
 
-        Console.WriteLine("Total de sálarios: " + soma);
+        Console.WriteLine($"Total de sálarios é: {soma:c}");
 
     }
 }
