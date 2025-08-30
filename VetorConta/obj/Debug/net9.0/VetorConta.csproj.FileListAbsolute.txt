@@ -1,0 +1,14 @@
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\VetorConta\obj\Debug\net9.0\VetorConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\VetorConta\obj\Debug\net9.0\VetorConta.AssemblyInfoInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\VetorConta\obj\Debug\net9.0\VetorConta.AssemblyInfo.cs
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\VetorConta\obj\Debug\net9.0\VetorConta.csproj.CoreCompileInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\VetorConta\bin\Debug\net9.0\VetorConta.exe
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\VetorConta\bin\Debug\net9.0\VetorConta.deps.json
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\VetorConta\bin\Debug\net9.0\VetorConta.runtimeconfig.json
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\VetorConta\bin\Debug\net9.0\VetorConta.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\VetorConta\bin\Debug\net9.0\VetorConta.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\VetorConta\obj\Debug\net9.0\VetorConta.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\VetorConta\obj\Debug\net9.0\refint\VetorConta.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\VetorConta\obj\Debug\net9.0\VetorConta.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\VetorConta\obj\Debug\net9.0\VetorConta.genruntimeconfig.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\VetorConta\obj\Debug\net9.0\ref\VetorConta.dll

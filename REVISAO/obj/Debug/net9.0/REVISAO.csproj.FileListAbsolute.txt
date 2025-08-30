@@ -1,0 +1,14 @@
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\REVISAO\bin\Debug\net9.0\REVISAO.exe
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\REVISAO\bin\Debug\net9.0\REVISAO.deps.json
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\REVISAO\bin\Debug\net9.0\REVISAO.runtimeconfig.json
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\REVISAO\bin\Debug\net9.0\REVISAO.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\REVISAO\bin\Debug\net9.0\REVISAO.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\REVISAO\obj\Debug\net9.0\REVISAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\REVISAO\obj\Debug\net9.0\REVISAO.AssemblyInfoInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\REVISAO\obj\Debug\net9.0\REVISAO.AssemblyInfo.cs
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\REVISAO\obj\Debug\net9.0\REVISAO.csproj.CoreCompileInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\REVISAO\obj\Debug\net9.0\REVISAO.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\REVISAO\obj\Debug\net9.0\refint\REVISAO.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\REVISAO\obj\Debug\net9.0\REVISAO.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\REVISAO\obj\Debug\net9.0\REVISAO.genruntimeconfig.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\REVISAO\obj\Debug\net9.0\ref\REVISAO.dll
