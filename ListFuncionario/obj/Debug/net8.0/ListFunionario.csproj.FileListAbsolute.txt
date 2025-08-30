@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\POO\ListFuncionario\bin\Debug\net8.0\ListFunionario.exe
+C:\Users\aluno\Documents\POO\ListFuncionario\bin\Debug\net8.0\ListFunionario.deps.json
+C:\Users\aluno\Documents\POO\ListFuncionario\bin\Debug\net8.0\ListFunionario.runtimeconfig.json
+C:\Users\aluno\Documents\POO\ListFuncionario\bin\Debug\net8.0\ListFunionario.dll
+C:\Users\aluno\Documents\POO\ListFuncionario\bin\Debug\net8.0\ListFunionario.pdb
+C:\Users\aluno\Documents\POO\ListFuncionario\obj\Debug\net8.0\ListFunionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\POO\ListFuncionario\obj\Debug\net8.0\ListFunionario.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\POO\ListFuncionario\obj\Debug\net8.0\ListFunionario.AssemblyInfo.cs
+C:\Users\aluno\Documents\POO\ListFuncionario\obj\Debug\net8.0\ListFunionario.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\POO\ListFuncionario\obj\Debug\net8.0\ListFunionario.sourcelink.json
+C:\Users\aluno\Documents\POO\ListFuncionario\obj\Debug\net8.0\ListFunionario.dll
+C:\Users\aluno\Documents\POO\ListFuncionario\obj\Debug\net8.0\refint\ListFunionario.dll
+C:\Users\aluno\Documents\POO\ListFuncionario\obj\Debug\net8.0\ListFunionario.pdb
+C:\Users\aluno\Documents\POO\ListFuncionario\obj\Debug\net8.0\ListFunionario.genruntimeconfig.cache
+C:\Users\aluno\Documents\POO\ListFuncionario\obj\Debug\net8.0\ref\ListFunionario.dll
