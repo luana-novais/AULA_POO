@@ -1,0 +1,15 @@
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoFuncionario\obj\Debug\net9.0\EncapsulamentoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoFuncionario\obj\Debug\net9.0\EncapsulamentoFuncionario.AssemblyInfoInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoFuncionario\obj\Debug\net9.0\EncapsulamentoFuncionario.AssemblyInfo.cs
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoFuncionario\obj\Debug\net9.0\EncapsulamentoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoFuncionario\obj\Debug\net9.0\EncapsulamentoFuncionario.sourcelink.json
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoFuncionario\bin\Debug\net9.0\EncapsulamentoFuncionario.exe
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoFuncionario\bin\Debug\net9.0\EncapsulamentoFuncionario.deps.json
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoFuncionario\bin\Debug\net9.0\EncapsulamentoFuncionario.runtimeconfig.json
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoFuncionario\bin\Debug\net9.0\EncapsulamentoFuncionario.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoFuncionario\bin\Debug\net9.0\EncapsulamentoFuncionario.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoFuncionario\obj\Debug\net9.0\EncapsulamentoFuncionario.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoFuncionario\obj\Debug\net9.0\refint\EncapsulamentoFuncionario.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoFuncionario\obj\Debug\net9.0\EncapsulamentoFuncionario.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoFuncionario\obj\Debug\net9.0\EncapsulamentoFuncionario.genruntimeconfig.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoFuncionario\obj\Debug\net9.0\ref\EncapsulamentoFuncionario.dll
