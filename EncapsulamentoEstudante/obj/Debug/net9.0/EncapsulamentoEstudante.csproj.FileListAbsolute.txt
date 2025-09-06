@@ -1,0 +1,15 @@
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.AssemblyInfoInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.AssemblyInfo.cs
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.csproj.CoreCompileInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.sourcelink.json
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoEstudante\bin\Debug\net9.0\EncapsulamentoEstudante.exe
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoEstudante\bin\Debug\net9.0\EncapsulamentoEstudante.deps.json
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoEstudante\bin\Debug\net9.0\EncapsulamentoEstudante.runtimeconfig.json
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoEstudante\bin\Debug\net9.0\EncapsulamentoEstudante.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoEstudante\bin\Debug\net9.0\EncapsulamentoEstudante.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoEstudante\obj\Debug\net9.0\refint\EncapsulamentoEstudante.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.genruntimeconfig.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\EncapsulamentoEstudante\obj\Debug\net9.0\ref\EncapsulamentoEstudante.dll
