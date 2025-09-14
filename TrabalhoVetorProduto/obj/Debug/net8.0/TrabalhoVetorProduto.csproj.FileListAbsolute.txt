@@ -1,0 +1,15 @@
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\TrabalhoVetorProduto\obj\Debug\net8.0\TrabalhoVetorProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\TrabalhoVetorProduto\obj\Debug\net8.0\TrabalhoVetorProduto.AssemblyInfoInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\TrabalhoVetorProduto\obj\Debug\net8.0\TrabalhoVetorProduto.AssemblyInfo.cs
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\TrabalhoVetorProduto\obj\Debug\net8.0\TrabalhoVetorProduto.csproj.CoreCompileInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\TrabalhoVetorProduto\obj\Debug\net8.0\TrabalhoVetorProduto.sourcelink.json
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\TrabalhoVetorProduto\bin\Debug\net8.0\TrabalhoVetorProduto.exe
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\TrabalhoVetorProduto\bin\Debug\net8.0\TrabalhoVetorProduto.deps.json
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\TrabalhoVetorProduto\bin\Debug\net8.0\TrabalhoVetorProduto.runtimeconfig.json
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\TrabalhoVetorProduto\bin\Debug\net8.0\TrabalhoVetorProduto.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\TrabalhoVetorProduto\bin\Debug\net8.0\TrabalhoVetorProduto.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\TrabalhoVetorProduto\obj\Debug\net8.0\TrabalhoVetorProduto.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\TrabalhoVetorProduto\obj\Debug\net8.0\refint\TrabalhoVetorProduto.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\TrabalhoVetorProduto\obj\Debug\net8.0\TrabalhoVetorProduto.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\TrabalhoVetorProduto\obj\Debug\net8.0\TrabalhoVetorProduto.genruntimeconfig.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\POO_252_NOITE\TrabalhoVetorProduto\obj\Debug\net8.0\ref\TrabalhoVetorProduto.dll

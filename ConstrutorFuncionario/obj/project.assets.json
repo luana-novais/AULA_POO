@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\POO_252_NOITE\\TrabalhoVetorProduto\\TrabalhoVetorProduto.csproj",
-      "projectName": "TrabalhoVetorProduto",
-      "projectPath": "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\POO_252_NOITE\\TrabalhoVetorProduto\\TrabalhoVetorProduto.csproj",
+      "projectUniqueName": "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\POO_252_NOITE\\ConstrutorFuncionario\\ConstrutorFuncionario.csproj",
+      "projectName": "ConstrutorFuncionario",
+      "projectPath": "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\POO_252_NOITE\\ConstrutorFuncionario\\ConstrutorFuncionario.csproj",
       "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\POO_252_NOITE\\TrabalhoVetorProduto\\obj\\",
+      "outputPath": "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\POO_252_NOITE\\ConstrutorFuncionario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luana\\AppData\\Roaming\\NuGet\\NuGet.Config"
