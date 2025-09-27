@@ -10,9 +10,12 @@ namespace TrabalhoAgregacaoVenda
         public string? Nome { get; set; }
         public double Comissao { get; set; }
 
-        
+        public void CalcularComissao(double valorVenda)
+        {
+            comissao += valorVenda * 0.02;
+        }
 
-        public void MostrarAtributo()
+        public void MostrarAtributos()
         {
             Console.WriteLine($"Nome: {Nome} \tComissao{Comissao}");
         }
