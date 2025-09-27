@@ -1,0 +1,15 @@
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\ComposisaoNf\obj\Debug\net9.0\ComposisaoNf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\ComposisaoNf\obj\Debug\net9.0\ComposisaoNf.AssemblyInfoInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\ComposisaoNf\obj\Debug\net9.0\ComposisaoNf.AssemblyInfo.cs
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\ComposisaoNf\obj\Debug\net9.0\ComposisaoNf.csproj.CoreCompileInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\ComposisaoNf\obj\Debug\net9.0\ComposisaoNf.sourcelink.json
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\ComposisaoNf\bin\Debug\net9.0\ComposisaoNf.exe
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\ComposisaoNf\bin\Debug\net9.0\ComposisaoNf.deps.json
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\ComposisaoNf\bin\Debug\net9.0\ComposisaoNf.runtimeconfig.json
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\ComposisaoNf\bin\Debug\net9.0\ComposisaoNf.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\ComposisaoNf\bin\Debug\net9.0\ComposisaoNf.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\ComposisaoNf\obj\Debug\net9.0\ComposisaoNf.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\ComposisaoNf\obj\Debug\net9.0\refint\ComposisaoNf.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\ComposisaoNf\obj\Debug\net9.0\ComposisaoNf.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\ComposisaoNf\obj\Debug\net9.0\ComposisaoNf.genruntimeconfig.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\ComposisaoNf\obj\Debug\net9.0\ref\ComposisaoNf.dll

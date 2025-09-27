@@ -1,12 +1,14 @@
 ﻿using TrabalhoConstrutorAluno;
-/*
-Criar a classe aluno (RA, NOME CONTATOR(estatico))
-Crie dois construtores, um vazio/padrão e outro com o parametro nome
+class Program
+{
+    static void Main()
+    {
+        Aluno a1 = new Aluno("João");
+        Aluno a2 = new Aluno("Maria");
+        Aluno a3 = new Aluno("Luana");
 
-Use o construtor static para inicializar a variavel contador
-Nos outros construtores incremente o contador e o armazene no atributo RA
-Impleme te o metodo Mostrar ()
-
-Faça instancias e apresente os atributos
-*/
-
+        a1.MostrarAtributos();
+        a2.MostrarAtributos();
+        a3.MostrarAtributos();
+    }
+}

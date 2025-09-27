@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\POO_252_NOITE\\REVISAO\\REVISAO.csproj",
+      "projectUniqueName": "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\AULA_POO\\REVISAO\\REVISAO.csproj",
       "projectName": "REVISAO",
-      "projectPath": "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\POO_252_NOITE\\REVISAO\\REVISAO.csproj",
+      "projectPath": "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\AULA_POO\\REVISAO\\REVISAO.csproj",
       "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\POO_252_NOITE\\REVISAO\\obj\\",
+      "outputPath": "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\AULA_POO\\REVISAO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luana\\AppData\\Roaming\\NuGet\\NuGet.Config"
