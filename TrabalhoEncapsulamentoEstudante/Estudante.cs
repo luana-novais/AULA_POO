@@ -1,41 +1,43 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace EncapsulamentoEstudante
 {
     public class Estudante
     {
-        public string? Nome { get; set; }
+        private string? nome;
         private double media;
+
+        public string? Nome
+        {
+            get { return nome; }
+            set { nome = value; }
+        }
+
         public double Media
         {
             get { return media; }
             set
             {
-                if (value >= 0 && media <= 10)
+                if (value >= 0 && value <= 10)
                     media = value;
                 else
-                    Console.WriteLine("Média invalidade!");
+                    Console.WriteLine("Média inválida! Deve estar entre 0 e 10.");
             }
-
         }
 
         public void ExibirDetalhes()
         {
-            Console.WriteLine("Nome: " + Nome + "Média: " + Media);
+            Console.WriteLine("Nome: " + Nome + " - Média: " + Media);
         }
 
         public bool EstaAprovado()
         {
-            if (media >= 6) return true;
-            else return false;
+            return media >= 6;
         }
 
         public void ExibirInformacoes()
         {
-            Console.WriteLine("Status: " + EstaAprovado());
+            Console.WriteLine("Status: " + (EstaAprovado() ? "Aprovado" : "Reprovado"));
         }
     }
 }

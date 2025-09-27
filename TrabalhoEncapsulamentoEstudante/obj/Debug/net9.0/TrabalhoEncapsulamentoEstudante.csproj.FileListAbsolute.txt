@@ -1,0 +1,15 @@
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoEncapsulamentoEstudante\bin\Debug\net9.0\TrabalhoEncapsulamentoEstudante.exe
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoEncapsulamentoEstudante\bin\Debug\net9.0\TrabalhoEncapsulamentoEstudante.deps.json
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoEncapsulamentoEstudante\bin\Debug\net9.0\TrabalhoEncapsulamentoEstudante.runtimeconfig.json
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoEncapsulamentoEstudante\bin\Debug\net9.0\TrabalhoEncapsulamentoEstudante.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoEncapsulamentoEstudante\bin\Debug\net9.0\TrabalhoEncapsulamentoEstudante.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.AssemblyInfoInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.AssemblyInfo.cs
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.csproj.CoreCompileInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.sourcelink.json
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\refint\TrabalhoEncapsulamentoEstudante.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\TrabalhoEncapsulamentoEstudante.genruntimeconfig.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoEncapsulamentoEstudante\obj\Debug\net9.0\ref\TrabalhoEncapsulamentoEstudante.dll
