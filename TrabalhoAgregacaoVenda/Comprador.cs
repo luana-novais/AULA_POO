@@ -7,12 +7,27 @@ namespace TrabalhoAgregacaoVenda
 {
     public class Comprador
     {
-        public double Verba { get; set; }
-        public string Nome { get; set; }
-
-        public void MostrarAtributo()
+        private double verba;
+        public double Verba
         {
-            Console.WriteLine($"Nome: {Nome} \tVerba: {verba}");
+            get { return verba; }
+            set
+            {
+                if (value >= 0)
+                {
+                    verba = value;
+                }
+            } 
+        }
+        
+        public Comprador (double verba)
+        {
+            Verba = verba;
+        }
+
+        public void MostrarAtributos()
+        {
+            Console.WriteLine($"Verba após a compra: R${verba:F2}");
         }
     }
 }

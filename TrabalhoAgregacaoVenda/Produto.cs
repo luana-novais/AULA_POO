@@ -7,32 +7,50 @@ namespace TrabalhoAgregacaoVenda
 {
     public class Produto
     {
+        private static int contador = 500;
+        private int codigo;
         private string? nome;
         private double preco;
-        private int codigo;
-        private static int contador;
 
-        static Produto()
-        {
-            Contador = 500;
-        }
         public string? Nome
         {
             get { return nome; }
-            set { nome = value; }
+            set
+            {
+                if (value != "")
+                {
+                    nome = value;
+                }
+            }
         }
+
         public double Preco
         {
             get { return preco; }
-            set { preco = value; }
+            set
+            {
+                if (value > 0)
+                {
+                    preco = value;
+                }
+            }
         }
+
         public int Codigo
         {
             get { return codigo; }
         }
+
+        public Produto(string? nome, double preco)
+        {
+            Nome = nome;
+            Preco = preco;
+            codigo = contador++;
+        }
+
         public void MostrarAtributos()
         {
-            Console.WriteLine($"Código: {codigo} | Nome: {nome} | Preço: R${preco}");
+            Console.WriteLine($"Código: {codigo} | Nome: {nome} | Preço: R${preco:F2}");
         }
     }
 }

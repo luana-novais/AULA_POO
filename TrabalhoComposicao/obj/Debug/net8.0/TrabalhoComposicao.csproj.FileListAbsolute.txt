@@ -1,0 +1,15 @@
+/home/codespace/AULA_POO/TrabalhoComposicao/obj/Debug/net8.0/TrabalhoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+/home/codespace/AULA_POO/TrabalhoComposicao/obj/Debug/net8.0/TrabalhoComposicao.AssemblyInfoInputs.cache
+/home/codespace/AULA_POO/TrabalhoComposicao/obj/Debug/net8.0/TrabalhoComposicao.AssemblyInfo.cs
+/home/codespace/AULA_POO/TrabalhoComposicao/obj/Debug/net8.0/TrabalhoComposicao.csproj.CoreCompileInputs.cache
+/home/codespace/AULA_POO/TrabalhoComposicao/obj/Debug/net8.0/TrabalhoComposicao.sourcelink.json
+/home/codespace/AULA_POO/TrabalhoComposicao/bin/Debug/net8.0/TrabalhoComposicao
+/home/codespace/AULA_POO/TrabalhoComposicao/bin/Debug/net8.0/TrabalhoComposicao.deps.json
+/home/codespace/AULA_POO/TrabalhoComposicao/bin/Debug/net8.0/TrabalhoComposicao.runtimeconfig.json
+/home/codespace/AULA_POO/TrabalhoComposicao/bin/Debug/net8.0/TrabalhoComposicao.dll
+/home/codespace/AULA_POO/TrabalhoComposicao/bin/Debug/net8.0/TrabalhoComposicao.pdb
+/home/codespace/AULA_POO/TrabalhoComposicao/obj/Debug/net8.0/TrabalhoComposicao.dll
+/home/codespace/AULA_POO/TrabalhoComposicao/obj/Debug/net8.0/refint/TrabalhoComposicao.dll
+/home/codespace/AULA_POO/TrabalhoComposicao/obj/Debug/net8.0/TrabalhoComposicao.pdb
+/home/codespace/AULA_POO/TrabalhoComposicao/obj/Debug/net8.0/TrabalhoComposicao.genruntimeconfig.cache
+/home/codespace/AULA_POO/TrabalhoComposicao/obj/Debug/net8.0/ref/TrabalhoComposicao.dll

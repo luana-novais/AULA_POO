@@ -1,0 +1,15 @@
+/home/codespace/AULA_POO/TrabalhoAgregacaoVenda/obj/Debug/net8.0/TrabalhoAgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+/home/codespace/AULA_POO/TrabalhoAgregacaoVenda/obj/Debug/net8.0/TrabalhoAgregacaoVenda.AssemblyInfoInputs.cache
+/home/codespace/AULA_POO/TrabalhoAgregacaoVenda/obj/Debug/net8.0/TrabalhoAgregacaoVenda.AssemblyInfo.cs
+/home/codespace/AULA_POO/TrabalhoAgregacaoVenda/obj/Debug/net8.0/TrabalhoAgregacaoVenda.csproj.CoreCompileInputs.cache
+/home/codespace/AULA_POO/TrabalhoAgregacaoVenda/obj/Debug/net8.0/TrabalhoAgregacaoVenda.sourcelink.json
+/home/codespace/AULA_POO/TrabalhoAgregacaoVenda/bin/Debug/net8.0/TrabalhoAgregacaoVenda
+/home/codespace/AULA_POO/TrabalhoAgregacaoVenda/bin/Debug/net8.0/TrabalhoAgregacaoVenda.deps.json
+/home/codespace/AULA_POO/TrabalhoAgregacaoVenda/bin/Debug/net8.0/TrabalhoAgregacaoVenda.runtimeconfig.json
+/home/codespace/AULA_POO/TrabalhoAgregacaoVenda/bin/Debug/net8.0/TrabalhoAgregacaoVenda.dll
+/home/codespace/AULA_POO/TrabalhoAgregacaoVenda/bin/Debug/net8.0/TrabalhoAgregacaoVenda.pdb
+/home/codespace/AULA_POO/TrabalhoAgregacaoVenda/obj/Debug/net8.0/TrabalhoAgregacaoVenda.dll
+/home/codespace/AULA_POO/TrabalhoAgregacaoVenda/obj/Debug/net8.0/refint/TrabalhoAgregacaoVenda.dll
+/home/codespace/AULA_POO/TrabalhoAgregacaoVenda/obj/Debug/net8.0/TrabalhoAgregacaoVenda.pdb
+/home/codespace/AULA_POO/TrabalhoAgregacaoVenda/obj/Debug/net8.0/TrabalhoAgregacaoVenda.genruntimeconfig.cache
+/home/codespace/AULA_POO/TrabalhoAgregacaoVenda/obj/Debug/net8.0/ref/TrabalhoAgregacaoVenda.dll

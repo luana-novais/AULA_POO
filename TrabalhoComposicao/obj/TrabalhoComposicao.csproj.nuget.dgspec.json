@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\AULA_POO\\TrabalhoComposicao\\TrabalhoComposicao.csproj": {}
+    "/home/codespace/AULA_POO/TrabalhoComposicao/TrabalhoComposicao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\AULA_POO\\TrabalhoComposicao\\TrabalhoComposicao.csproj": {
+    "/home/codespace/AULA_POO/TrabalhoComposicao/TrabalhoComposicao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\AULA_POO\\TrabalhoComposicao\\TrabalhoComposicao.csproj",
+        "projectUniqueName": "/home/codespace/AULA_POO/TrabalhoComposicao/TrabalhoComposicao.csproj",
         "projectName": "TrabalhoComposicao",
-        "projectPath": "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\AULA_POO\\TrabalhoComposicao\\TrabalhoComposicao.csproj",
-        "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luana\\OneDrive\\Documentos\\FATEC\\AULA_POO\\TrabalhoComposicao\\obj\\",
+        "projectPath": "/home/codespace/AULA_POO/TrabalhoComposicao/TrabalhoComposicao.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/home/codespace/AULA_POO/TrabalhoComposicao/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -37,12 +37,11 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -59,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

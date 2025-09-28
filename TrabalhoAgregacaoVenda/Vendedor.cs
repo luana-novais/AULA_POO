@@ -7,8 +7,22 @@ namespace TrabalhoAgregacaoVenda
 {
     public class Vendedor
     {
-        public string? Nome { get; set; }
-        public double Comissao { get; set; }
+        private double comissao;
+
+        public double Comissao
+        {
+            get { return comissao; }
+            set
+            {
+                if (value >= 0)
+                    comissao = value;
+            }
+        }
+
+        public Vendedor()
+        {
+            comissao = 0;
+        }
 
         public void CalcularComissao(double valorVenda)
         {
@@ -17,7 +31,7 @@ namespace TrabalhoAgregacaoVenda
 
         public void MostrarAtributos()
         {
-            Console.WriteLine($"Nome: {Nome} \tComissao{Comissao}");
+            Console.WriteLine($"Comissão: R${comissao:F2}");
         }
     }
 }

@@ -5,32 +5,44 @@ using System.Threading.Tasks;
 
 namespace TrabalhoAgregacaoVenda
 {
-    public class Venda
+     public class Venda
     {
-        public Comprador Comp { get; set; }
-        public Vendedor Vend { get; set; }
-        public List<Produto> VetProduto { get; set; }
+        private Comprador comp;
+        private Vendedor vend;
+        private List<Produto> vetProd;
 
-        public Venda(Comprador comp, Vendedor vend, List<Produto> produtos)
+        public Venda(Comprador comprador, Vendedor vendedor)
         {
-            Comp = comp;
-            Vend = vend;
-            VetProduto = produtos;
+            comp = comprador;
+            vend = vendedor;
+            vetProd = new List<Produto>();
         }
 
-        public void RealizarVenda()
+        public void RealizarVenda(Produto produto)
         {
-            foreach (var produto in VetProduto)
+            if (comp.Verba >= produto.Preco)
             {
-                Comp.ComprarProduto(produto, Vend);
+                comp.Verba -= produto.Preco;
+                vend.CalcularComissao(produto.Preco);
+                vetProd.Add(produto);
+                Console.WriteLine($"Venda realizada: {produto.Nome} por {produto.Preco:C}");
+            }
+            else
+            {
+                Console.WriteLine($"Venda NÃO realizada: verba insuficiente para comprar {produto.Nome}!");
             }
         }
 
         public void MostrarAtributos()
         {
-            Console.WriteLine("\nResumo da Venda:");
-            Comp.MostrarAtributo();
-            Console.WriteLine($"Comissão do vendedor: R$ {Vend.Comissao:F2}");
+            Console.WriteLine("\n--- Detalhes da Venda ---");
+            comp.MostrarAtributos();
+            vend.MostrarAtributos();
+            Console.WriteLine("Produtos comprados:");
+            foreach (var p in vetProd)
+            {
+                p.MostrarAtributos();
+            }
         }
     }
 }

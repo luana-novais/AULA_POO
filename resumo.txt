@@ -1,0 +1,62 @@
+CLASSE
+É um “molde” que define a estrutura e o comportamento de objetos, especificando seus atributos (dados) e métodos (funções ou comportamentos).
+Por exemplo, uma classe Carro pode ter atributos como marca, modelo e ano, e métodos como acelerar() ou frear().
+
+ATRIBUTO 
+Informações que serão manipuladas dentro da classe
+É o elemento de uma classe, responsavel por definir sua estrutura de dados. É as caracteristicas que o objeto ira armazenar.
+
+
+METODO 
+São as operações ou comportamentos que a classe pode realizar. Pense em verbos quando for definir um metodo.
+O metodo é ativado atraves de uma mensagem 
+
+Na pasagem de parametros podemos passar variaveis(por valor) e tbm objetos (por referencia)
+
+tipo implicito var : instrui o compilador a deduzir o tipo da variavel, você não precisa especificar explicitamente o tipo da variável; 
+o compilador determina automaticamente o tipo mais apropriado no momento da compilação 
+
+OBJETO/INSTANCIA 
+Um objeto é uma instância concreta de uma classe. Ele combina dados (atributos) e comportamentos (métodos) em uma única entidade.
+Objetos permitem modelar entidades do mundo real ou conceitos de forma estruturada e reutilizável.
+
+Funcionario F1 = new Funcionario();  
+    funcionario = classe, tipo, estrututra  
+    f1 = objeto, variavel de instancia  
+    new = alocacao de memoria 
+    funcionario() = metodo construtuor - nome da classe com os parenteses 
+
+VETOR
+permite armazenar múltiplas instâncias de uma classe em uma estrutura indexada
+o foreach APENAS pode ser usado para vetor que já tenha conteudo
+    foreach (<tipo <variavel> in <vetor>)    
+
+    List<Funcionario> VetFuncionario = new List<Funcionario>()
+
+ENCAPSULAMENTO
+Serve para ocultar os atributos ao acesso exterior, oculta dos dados e detalhes de outras classes, protege informaççoes privadas
+    private int myVar;
+    public int MyProperty;
+    {   get { return myVar; }
+        set { myVar = value; }
+    }
+
+        public int Numero //numero em minusculo é atributo. numero em maiusculo é a propriedade, é a representação dos métodos de encapsulamento. 
+
+
+CONSTRUTOR 
+Tem a função de inicializar os objetos 
+é essencial para garantir que os objetos sejam criados de forma consistente e com dados válidos. 
+Ele simplifica a inicialização de atributos e pode conter lógica inicial necessária para o funcionamento correto do objeto logo após sua criação. 
+É a porta de entrada para qualquer objeto de uma classe em POO.
+
+AGREGAÇÃO
+as informações de um objeto precisam ser completadas com informacoes contidas em um objeto de outra classe
+uma classe maior(todo) é formado por itens menores (parte), os objetos parte podem existir sem serem parte do objeto todo 
+
+COMPOSIÇÃO
+associação mais forte que agregação, tambem é um relacionamento parte/todo, porém a existencia da parte não faz sentido se não existir o todo, 
+o objeto todo é responsavel por destruir e criar suas partes 
+
+DESTRUTOR
+função inversa a construtores, 
