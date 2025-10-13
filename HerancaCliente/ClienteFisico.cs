@@ -14,9 +14,10 @@ namespace HerancaCliente
             set { rg = value; }
         }
 
-        public void Mostrar()
-        { // 
-            Console.WriteLine($"Código: {codigo} \tNome: {nome} \tRg: {Rg}");
+        public override void Mostrar()
+        {
+            base.Mostrar();
+            Console.WriteLine($"Rg: {Rg}");
         }   
     }
 }
