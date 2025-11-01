@@ -1,0 +1,15 @@
+C:\Users\aluno\AULA_POO\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\AULA_POO\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.AssemblyInfoInputs.cache
+C:\Users\aluno\AULA_POO\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.AssemblyInfo.cs
+C:\Users\aluno\AULA_POO\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.csproj.CoreCompileInputs.cache
+C:\Users\aluno\AULA_POO\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.sourcelink.json
+C:\Users\aluno\AULA_POO\AbstrataCliente\bin\Debug\net8.0\AbstrataCliente.exe
+C:\Users\aluno\AULA_POO\AbstrataCliente\bin\Debug\net8.0\AbstrataCliente.deps.json
+C:\Users\aluno\AULA_POO\AbstrataCliente\bin\Debug\net8.0\AbstrataCliente.runtimeconfig.json
+C:\Users\aluno\AULA_POO\AbstrataCliente\bin\Debug\net8.0\AbstrataCliente.dll
+C:\Users\aluno\AULA_POO\AbstrataCliente\bin\Debug\net8.0\AbstrataCliente.pdb
+C:\Users\aluno\AULA_POO\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.dll
+C:\Users\aluno\AULA_POO\AbstrataCliente\obj\Debug\net8.0\refint\AbstrataCliente.dll
+C:\Users\aluno\AULA_POO\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.pdb
+C:\Users\aluno\AULA_POO\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.genruntimeconfig.cache
+C:\Users\aluno\AULA_POO\AbstrataCliente\obj\Debug\net8.0\ref\AbstrataCliente.dll
