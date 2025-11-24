@@ -60,3 +60,41 @@ o objeto todo é responsavel por destruir e criar suas partes
 
 DESTRUTOR
 função inversa a construtores, 
+
+
+P2:
+- não vai cair atributo e metodo static
+
+vai cair herança e polimorfismo
+
+herança - durante a implementação do sistema tem que criar detalhes especificos, organização da OB. 
+Uma classe base com os atributos em comum e as classes derivadas com atributos especificos. Tudo que tem na classe base, tem nas derivadas.
+as vezes não vai ter atributos novos, mas pode ter metodos
+    - construtor - derivada(atributos) : base(atributos) - só vai trabalhar com os atributos da classe derivada, não repete o que está na base
+    - encapsulamento  
+        protect(só coloca na classe base, nas classes filhas continua private)
+    - polimorfismo
+        - estatico - na mesma classe  - ocorre em momento de compilação. 
+        O mesmo método é implementado várias vezes na mesma classe, com parâmetros diferentes.
+        não tem palavra reservada!
+        - dinamico - na herança - ocorre em momento de execução. Vai pelos objetos estanciados
+        O mesmo método é implementado várias vezes nas subclasses derivadas, com os mesmos parâmetros.
+        tem palavra reservada! Virtual na classe base e override na classe derivada
+        base.metodo()
+
+classe abstrata - não pode ser estanciada (não usa o new)
+    metodos concretos (com lógica) 
+    metodo abstrato - não tem lógica de programação na classe base e na derivada tem que ter lógica - tipo nomeMetodo (parametros);
+
+interface - só tem metodos implicitos abstratos 
+
+SOLID - conceitos para boas práticas de programação
+5 palavras:
+S --> responsabilidade unica --> cria classe com métodos e atributos dela
+O --> fechado e aberto --> fecha quado tiver pronto, abre quando tiver uma nova necessidade, deixar o sistema preparada para essa nova 
+funcinalidade, sugestão: usar interface
+L --> herança --> classe base pode ser substituido pela sub classe --> fazer testes unitários --> Barbara Liscov
+I --> segregação de interface --> interface com muitos métodos --> separe a interface quando tiver muitos métodos, pois a interface obriga 
+que as classes implementa
+D --> dependencia --> ao invés de depender de uma classe por meio de agreção ou composição, depender de um interface, pois quando um objeto 
+de uma classe todo é instanciado terá acesso a todos os métodos e atributos da classe parte, então quando não há essa necessidade utilizar interface.

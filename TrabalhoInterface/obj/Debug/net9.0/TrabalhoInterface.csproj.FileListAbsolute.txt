@@ -1,0 +1,15 @@
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoInterface\obj\Debug\net9.0\TrabalhoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoInterface\obj\Debug\net9.0\TrabalhoInterface.AssemblyInfoInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoInterface\obj\Debug\net9.0\TrabalhoInterface.AssemblyInfo.cs
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoInterface\obj\Debug\net9.0\TrabalhoInterface.csproj.CoreCompileInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoInterface\obj\Debug\net9.0\TrabalhoInterface.sourcelink.json
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoInterface\bin\Debug\net9.0\TrabalhoInterface.exe
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoInterface\bin\Debug\net9.0\TrabalhoInterface.deps.json
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoInterface\bin\Debug\net9.0\TrabalhoInterface.runtimeconfig.json
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoInterface\bin\Debug\net9.0\TrabalhoInterface.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoInterface\bin\Debug\net9.0\TrabalhoInterface.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoInterface\obj\Debug\net9.0\TrabalhoInterface.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoInterface\obj\Debug\net9.0\refint\TrabalhoInterface.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoInterface\obj\Debug\net9.0\TrabalhoInterface.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoInterface\obj\Debug\net9.0\TrabalhoInterface.genruntimeconfig.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\TrabalhoInterface\obj\Debug\net9.0\ref\TrabalhoInterface.dll

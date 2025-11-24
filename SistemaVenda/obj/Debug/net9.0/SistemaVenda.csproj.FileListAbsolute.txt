@@ -1,0 +1,15 @@
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\SistemaVenda\obj\Debug\net9.0\SistemaVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\SistemaVenda\obj\Debug\net9.0\SistemaVenda.AssemblyInfoInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\SistemaVenda\obj\Debug\net9.0\SistemaVenda.AssemblyInfo.cs
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\SistemaVenda\obj\Debug\net9.0\SistemaVenda.csproj.CoreCompileInputs.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\SistemaVenda\obj\Debug\net9.0\SistemaVenda.sourcelink.json
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\SistemaVenda\bin\Debug\net9.0\SistemaVenda.exe
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\SistemaVenda\bin\Debug\net9.0\SistemaVenda.deps.json
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\SistemaVenda\bin\Debug\net9.0\SistemaVenda.runtimeconfig.json
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\SistemaVenda\bin\Debug\net9.0\SistemaVenda.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\SistemaVenda\bin\Debug\net9.0\SistemaVenda.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\SistemaVenda\obj\Debug\net9.0\SistemaVenda.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\SistemaVenda\obj\Debug\net9.0\refint\SistemaVenda.dll
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\SistemaVenda\obj\Debug\net9.0\SistemaVenda.pdb
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\SistemaVenda\obj\Debug\net9.0\SistemaVenda.genruntimeconfig.cache
+C:\Users\luana\OneDrive\Documentos\FATEC\AULA_POO\SistemaVenda\obj\Debug\net9.0\ref\SistemaVenda.dll

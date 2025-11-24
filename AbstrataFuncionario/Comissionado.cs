@@ -23,5 +23,5 @@ namespace AbstrataFuncionario
             base.Mostrar();
             Console.WriteLine($"Porcentagem: {Porcentagem:n} %");
         }
-    }
+    } 
 }
